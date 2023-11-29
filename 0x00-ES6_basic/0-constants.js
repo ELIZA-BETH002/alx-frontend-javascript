@@ -13,4 +13,4 @@ export function taskFirst() {
   
     return combination;
   }
-\r\n 
+  export default { taskFirst, getLast, taskNext };
